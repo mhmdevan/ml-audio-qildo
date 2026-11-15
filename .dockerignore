@@ -1,0 +1,9 @@
+*
+!Dockerfile
+!beats.py
+!qildo_beats/
+!qildo_beats/*.py
+!checkpoints/
+!checkpoints/mixed-residual.pt
+!checkpoints/quality.pt
+!checkpoints/quality-ranker.json
